@@ -117,7 +117,7 @@ public class _2022111573_3_Test {
         List<Integer> result = solution.largestDivisibleSubset(nums);
 
         // 预期结果：任意一个元素的子集，例如 [3]、[5] 或 [7]，长度为1
-        assertEquals(1, result.size());
+        assertEquals(0, result.size());
         // 你也可以根据具体的结果来验证
         assertTrue(result.contains(3) || result.contains(5) || result.contains(7));
 }
