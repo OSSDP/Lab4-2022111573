@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ccc3b6d-2b50-4345-8166-6172a6ae1a3b" name="Changes" comment="commit" />
+    <list default="true" id="3ccc3b6d-2b50-4345-8166-6172a6ae1a3b" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_2022111573_3_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_2022111573_3_Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2q0N9viK8VnqWMhclMEP9r7qxOo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,6 +34,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FIGHTING/kr/新建文件夹 (2)/Lab3/dinosaur-exploder",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,7 +51,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733795385693</updated>
-      <workItem from="1733795386882" duration="1086000" />
+      <workItem from="1733795386882" duration="1900000" />
+      <workItem from="1733876706122" duration="14000" />
+      <workItem from="1734982695591" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

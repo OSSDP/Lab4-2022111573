@@ -33,7 +33,7 @@ import java.util.List;
  * nums 中的所有整数 互不相同
  *
  */
-class Solution3 {
+public class Solution3 {
     public List<Integer> largestDivisibleSubset(int[] nums) {
 
         int len = nums.length;  // 修改为 nums.length 而不是 nums.length - 1

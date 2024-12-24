@@ -1,3 +1,4 @@
+import org.example.Solution3;
 import org.junit.Test;
 
 import java.util.Arrays;
